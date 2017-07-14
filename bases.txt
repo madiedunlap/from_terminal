@@ -8,7 +8,7 @@ AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_s
 
 AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_info	bases	252844644
 
-AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	stats_info	bases	240819410
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_info	bases	240819410
 
 AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_info	bases	245979345
 
@@ -16,9 +16,9 @@ AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_s
 
 AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_info	bases	209418
 
-AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	stats_info	bases	265096811
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_info	bases	265096811
 
-AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	stats_info	bases	228443715
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_info	bases	228443715
 
 AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_info	bases	260302145
 
@@ -34,9 +34,9 @@ AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_s
 
 AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_info	bases	615866
 
-AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	stats_info	bases	235482868
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_info	bases	235482868
 
-AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	stats_info	bases	265786657
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_info	bases	265786657
 
 AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_info	bases	193743515
 
